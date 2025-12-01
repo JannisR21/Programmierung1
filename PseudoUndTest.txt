@@ -1,0 +1,24 @@
+/* Pseudo Code
+Start 
+Erste Zahl eingeben 
+Zweite Zahl eingeben 
+Operator auswählen
+Prüfen ob der Operator gültig ist wenn nicht beenden
+Operator gültig prüfen ob Zahl2 eine 0  nur wenn Operator Division ist wenn true beenden da divison durch 0 nicht möglich
+Zahl2 keine Null berechnung durchführen
+Ausgabe der Berechnung 
+Ende
+
+Tesliste
+Addition 2+3 = 5
+Subtraktion 5-2 = 3
+divison 14/2 = 7
+multiplikation 5 * 2 = 10
+ungültier Operator ? = fehler
+10 / 0 → Fehler
+-5 - (-3) → -2
+5 + 0 → 5
+*/
+
+
+
